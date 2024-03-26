@@ -1,0 +1,27 @@
+{
+  "name": "atmintrective",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asad755/atm_intrectve.git"
+  },
+  "author": "asadiftekhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asad755/atm_intrectve/issues"
+  },
+  "homepage": "https://github.com/asad755/atm_intrectve#readme",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
